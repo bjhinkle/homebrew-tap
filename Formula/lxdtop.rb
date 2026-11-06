@@ -1,8 +1,8 @@
 class Lxdtop < Formula
   desc "Live, btop-style view of an LXD host, plus an SSH helper to run it"
   homepage "https://github.com/bjhinkle/lxdtop"
-  url "https://github.com/bjhinkle/lxdtop/archive/refs/tags/v1.10.0.tar.gz"
-  sha256 "833e878ba52656e2df1396e4d7a262728a1155c47363312b1ff2d98f8124b025"
+  url "https://github.com/bjhinkle/lxdtop/archive/refs/tags/v1.10.1.tar.gz"
+  sha256 "125959eefb7e827d3b4340d952e82afeac883760e0f66f1fd97030646286e596"
   license "MIT"
 
   def install
